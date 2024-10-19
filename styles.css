@@ -68,6 +68,7 @@ nav ul li a{
 }
 
 .content p{
+    font-size: 20px;
     margin: 10px 0 30px;
     color: #333;
     animation-delay: 0.5s;
@@ -106,3 +107,4 @@ nav ul li a{
         transform: translateY(0px);
     }
 }
+
